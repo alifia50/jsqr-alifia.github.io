@@ -106,3 +106,4 @@ npm run-script build
 
 Pull requests are welcome! Please create seperate branches for seperate features/patches.
 # jsqr-alifia.github.io
+# jsqr-alifia.github.io
